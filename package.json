@@ -1,0 +1,19 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file-manager",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wex2/File-Manager.git"
+  },
+  "author": "Wex2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wex2/File-Manager/issues"
+  },
+  "homepage": "https://github.com/Wex2/File-Manager#readme"
+}
