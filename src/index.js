@@ -10,7 +10,7 @@ console.clear();
 
 if (!argsData.username) {
   write('Invalid input: You must enter username!');
-  write('USE: npm run start -- [--username=user]');
+  write('USE: npm run start -- --username=[user]');
   process.exit();
 }
 const readLine = createInterface({
